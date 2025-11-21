@@ -1,14 +1,15 @@
 using System.Collections.Generic;
 using System.Text.Json.Serialization;
 
-// ==== TODAS LAS CLASES NECESARIAS ====
-
 namespace DigimonData
 {
     
-
+// Lo que hacen estas clases es indicar la propiedad a la 
+// que se corresponde en el JSON
 public class Digimon
 {
+    // Ejemplo: el json tiene "name":"Agumon"
+    // Guarda eso en el Name del objeto (Así con todo).
     [JsonPropertyName("name")]
     public string Name { get; set; }
 

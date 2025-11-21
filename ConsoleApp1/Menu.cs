@@ -3,30 +3,34 @@ namespace DigimonData
 {
     public static class Menu
     {
+        // Método que crea un menú interactivo mediante el 
+        // uso de un switch.
+        // Tiene la misma metodología que el otro mostrar lo que
+        // aquí se filtra por cada caso del switch que indique el usuario
         public static void Mostrar(Digimon digi)
         {
             int opcion = 0;
-            while (opcion !=8)
+            // Este bucle se ejecutará hasta que el usuario presione
+            // el número correspondiente a "salir".
+            while (opcion != 8)
             {
-
-
-                Console.WriteLine("\n=== Menú de filtrado Digimon ===\n");
-                Console.WriteLine("1 -> Fecha de lanzamiento");
-                Console.WriteLine("2 -> Nivel");
-                Console.WriteLine("3 -> Tipo");
-                Console.WriteLine("4 -> Atributo");
-                Console.WriteLine("5 -> Campo");
-                Console.WriteLine("6 -> Descripción");
-                Console.WriteLine("7 -> Habilidades");
-                Console.WriteLine("8 -> Salir");
+                Console.WriteLine("\n🛡️🌀=== Menú de filtrado Digimon ===🌀🛡️\n");
+                Console.WriteLine("1 ➜  Fecha de lanzamiento 📅");
+                Console.WriteLine("2 ➜  Nivel 🔰");
+                Console.WriteLine("3 ➜  Tipo 🛡️");
+                Console.WriteLine("4 ➜  Atributo 💠");
+                Console.WriteLine("5 ➜  Campo 🌄");
+                Console.WriteLine("6 ➜  Descripción 📝");
+                Console.WriteLine("7 ➜  Habilidades ⚔️");
+                Console.WriteLine("8 ➜  Salir 🚪");
 
                 Console.Write("\nIngrese una opción: ");
                 string opcionInput = Console.ReadLine();
-               
 
+                // Comprobamos que el usuario no escriba un string
                 if (!int.TryParse(opcionInput, out opcion))
                 {
-                    Console.WriteLine("Opción inválida. Por favor ingrese un número.");
+                    Console.WriteLine("Opción no válida. Por favor ingrese un número.");
                 }
                 else
                 {
