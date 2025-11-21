@@ -18,7 +18,9 @@ class Program
         // Permitimos al usuario escribrir el digmon que desea buscar
         // Si el usuario pone un  número enseñaría el digimon cuyo id corresponda
         // Al número introducido por el usuario.
-        Console.Write("\n🔍 Dime el Digimon que quieres buscar (nombre/número): ");
+        
+        Console.Write("\n🔍 Dime el Digimon que quieres buscar (nombre/número) máximo 1488: ");
+
 
         string input = Console.ReadLine();
 
