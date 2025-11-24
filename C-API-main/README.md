@@ -31,13 +31,17 @@ Búsqueda por nombre o ID: permite encontrar cualquier Digimon de la base de dat
 
 Menú de filtros: muestra información detallada como:
 
-- Fecha de lanzamiento
+- Fecha de lanzamiento:
+  Muestra solo la fecha de lanzamiento del digimon seleccionado
 
-- Nivel
+- Nivel:
+  Muestra solo el nivel del digimon seleccionado (child, rookie...)
 
-- Tipos
+- Tipos:
+  Muestra el tipo que es el digimon (vacuna, datos, virus)
 
-- Atributos
+- Atributos:
+  Muestra los atributos del digimon seleccionado (luz, oscuridad, )
 
 - Campos
 
