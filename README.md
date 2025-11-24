@@ -11,15 +11,15 @@ Visual Studio Code o Visual Studio
 
 Navegador moderno (Chrome, Edge, Firefox)
 
-Conexión a la API local: http://localhost:5187/api/digimon
-
 # 🚀 Instalación y ejecución
 
 Clona o descarga este repositorio.
 
 Abre la carpeta del proyecto en Visual Studio Code o Visual Studio.
 
-Asegúrate de que tu API de ASP.NET esté corriendo en http://localhost:5187/api/digimon.
+Abrir la terminal de VS Code.
+
+moverse a la carpeta backend poniendo "cd backend" y ejecutar "dotnet run".
 
 Abre index.html en tu navegador.
 
@@ -61,6 +61,6 @@ Escribe el nombre o ID de un Digimon en la caja de búsqueda.
 
 Presiona Buscar.
 
-El resultado aparecerá en la sección de resultados.
+El resultado aparecerá en la pantalla.
 
 Para ver detalles específicos, baja abajo de la pagina y se vera el menú de filtros y selecciona la categoría deseada.
