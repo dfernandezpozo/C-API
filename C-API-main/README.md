@@ -38,18 +38,22 @@ Menú de filtros: muestra información detallada como:
   Muestra solo el nivel del digimon seleccionado (child, rookie...)
 
 - Tipos:
-  Muestra el tipo que es el digimon (vacuna, datos, virus)
+  Muestra el tipo que es el digimon (Dragon mitico, larva...)
 
 - Atributos:
-  Muestra los atributos del digimon seleccionado (luz, oscuridad, )
+  Muestra el tipo que es el digimon (vacuna, datos, virus o libre)
 
-- Campos
+- Campos:
+  Muestra el habitat del digimon(Campo, ciudad...)
 
-- Descripción
+- Descripción:
+  Muestra una descripción del digimon seleccionado
+  
+- Habilidades:
+  Muestra las habilidades que tiene el digimon seleccionado
 
-- Habilidades
-
-- Imagen
+- Imagen:
+  Muestra la imagen del digimon seleccionado
 
 # 💻 Uso
 
@@ -59,4 +63,4 @@ Presiona Buscar.
 
 El resultado aparecerá en la sección de resultados.
 
-Para ver detalles específicos, abre el menú de filtros y selecciona la categoría deseada.
+Para ver detalles específicos, baja abajo de la pagina y se vera el menú de filtros y selecciona la categoría deseada.
