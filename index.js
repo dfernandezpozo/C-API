@@ -5,7 +5,7 @@ async function buscarDigimon() {
     if (input === "") return;
 
     try {
-        const res = await fetch(`https://digi-api.com/api/v1/digimon/${input}`);
+        const res = await fetch(`http://localhost:5050/api/characters/${input}`);
         if (!res.ok) throw new Error("No encontrado");
 
         const digi = await res.json();
