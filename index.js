@@ -91,3 +91,13 @@ function mostrarFiltro(tipo) {
     target.innerHTML = html;
     target.style.display = "block";
 }
+
+async function cargarDigimon() {
+    const respuesta = await fetch("http://localhost:5187/api/digimon");
+    const data = await respuesta.json();
+
+    console.log(data);
+
+    document.getElementById("result").textContent =
+        JSON.stringify(data, null, 2);
+}
