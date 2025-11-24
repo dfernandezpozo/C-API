@@ -1,18 +1,20 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace backend.Controllers
+[ApiController]
+[Route("api/[controller]")]
+public class CharactersController : ControllerBase
 {
-    [ApiController]
-    [Route("api/[controller]")]
-    public class DigimonController : ControllerBase
+    [HttpGet("{id}")]
+    public async Task<IActionResult> Get(int id)
     {
-        [HttpGet]
-        public async Task<IActionResult> Get()
-        {
-            var client = new HttpClient();
-            var json = await client.GetStringAsync("https://digimon-api.vercel.app/api/digimon");
+        var http = new HttpClient();
+        var url = $"https://digi-api.com/api/v1/digimon/{id}";
 
-            return Content(json, "application/json");
-        }
+        var response = await http.GetAsync(url);
+        if (!response.IsSuccessStatusCode)
+            return BadRequest("Error obteniendo datos");
+
+        var json = await response.Content.ReadAsStringAsync();
+        return Content(json, "application/json");
     }
 }

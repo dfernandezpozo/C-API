@@ -88,11 +88,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jeaso\\Downloads\\C-API-main\\backend\\backend.csproj",
+      "projectUniqueName": "C:\\Users\\jeaso\\Downloads\\C-API-main(prueba)\\C-API-main\\backend\\backend.csproj",
       "projectName": "backend",
-      "projectPath": "C:\\Users\\jeaso\\Downloads\\C-API-main\\backend\\backend.csproj",
+      "projectPath": "C:\\Users\\jeaso\\Downloads\\C-API-main(prueba)\\C-API-main\\backend\\backend.csproj",
       "packagesPath": "C:\\Users\\jeaso\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jeaso\\Downloads\\C-API-main\\backend\\obj\\",
+      "outputPath": "C:\\Users\\jeaso\\Downloads\\C-API-main(prueba)\\C-API-main\\backend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jeaso\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "w9gdrQCftk4=",
+  "dgSpecHash": "ZLH3JDPGVCQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\jeaso\\Downloads\\C-API-main\\backend\\backend.csproj",
+  "projectFilePath": "C:\\Users\\jeaso\\Downloads\\C-API-main(prueba)\\C-API-main\\backend\\backend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jeaso\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.0\\microsoft.aspnetcore.openapi.10.0.0.nupkg.sha512",
     "C:\\Users\\jeaso\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
