@@ -1,0 +1,41 @@
+C:\Users\Ferni\Desktop\C-API\C-API\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.exe
+C:\Users\Ferni\Desktop\C-API\C-API\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.deps.json
+C:\Users\Ferni\Desktop\C-API\C-API\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.runtimeconfig.json
+C:\Users\Ferni\Desktop\C-API\C-API\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.dll
+C:\Users\Ferni\Desktop\C-API\C-API\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.pdb
+C:\Users\Ferni\Desktop\C-API\C-API\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ferni\Desktop\C-API\C-API\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Ferni\Desktop\C-API\C-API\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Ferni\Desktop\C-API\C-API\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Ferni\Desktop\C-API\C-API\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.sourcelink.json
+C:\Users\Ferni\Desktop\C-API\C-API\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.dll
+C:\Users\Ferni\Desktop\C-API\C-API\ConsoleApp1\obj\Debug\net9.0\refint\ConsoleApp1.dll
+C:\Users\Ferni\Desktop\C-API\C-API\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.pdb
+C:\Users\Ferni\Desktop\C-API\C-API\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\Ferni\Desktop\C-API\C-API\ConsoleApp1\obj\Debug\net9.0\ref\ConsoleApp1.dll
+C:\Users\jeaso\Downloads\C-API-main (6)\C-API-main\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.staticwebassets.endpoints.json
+C:\Users\jeaso\Downloads\C-API-main (6)\C-API-main\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.exe
+C:\Users\jeaso\Downloads\C-API-main (6)\C-API-main\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.deps.json
+C:\Users\jeaso\Downloads\C-API-main (6)\C-API-main\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.runtimeconfig.json
+C:\Users\jeaso\Downloads\C-API-main (6)\C-API-main\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.dll
+C:\Users\jeaso\Downloads\C-API-main (6)\C-API-main\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.pdb
+C:\Users\jeaso\Downloads\C-API-main (6)\C-API-main\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeaso\Downloads\C-API-main (6)\C-API-main\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\jeaso\Downloads\C-API-main (6)\C-API-main\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\jeaso\Downloads\C-API-main (6)\C-API-main\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\jeaso\Downloads\C-API-main (6)\C-API-main\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jeaso\Downloads\C-API-main (6)\C-API-main\ConsoleApp1\obj\Debug\net9.0\scopedcss\bundle\ConsoleApp1.styles.css
+C:\Users\jeaso\Downloads\C-API-main (6)\C-API-main\ConsoleApp1\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\jeaso\Downloads\C-API-main (6)\C-API-main\ConsoleApp1\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\jeaso\Downloads\C-API-main (6)\C-API-main\ConsoleApp1\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\jeaso\Downloads\C-API-main (6)\C-API-main\ConsoleApp1\obj\Debug\net9.0\staticwebassets\msbuild.ConsoleApp1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jeaso\Downloads\C-API-main (6)\C-API-main\ConsoleApp1\obj\Debug\net9.0\staticwebassets\msbuild.ConsoleApp1.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\jeaso\Downloads\C-API-main (6)\C-API-main\ConsoleApp1\obj\Debug\net9.0\staticwebassets\msbuild.build.ConsoleApp1.props
+C:\Users\jeaso\Downloads\C-API-main (6)\C-API-main\ConsoleApp1\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.ConsoleApp1.props
+C:\Users\jeaso\Downloads\C-API-main (6)\C-API-main\ConsoleApp1\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.ConsoleApp1.props
+C:\Users\jeaso\Downloads\C-API-main (6)\C-API-main\ConsoleApp1\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\jeaso\Downloads\C-API-main (6)\C-API-main\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.dll
+C:\Users\jeaso\Downloads\C-API-main (6)\C-API-main\ConsoleApp1\obj\Debug\net9.0\refint\ConsoleApp1.dll
+C:\Users\jeaso\Downloads\C-API-main (6)\C-API-main\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.pdb
+C:\Users\jeaso\Downloads\C-API-main (6)\C-API-main\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\jeaso\Downloads\C-API-main (6)\C-API-main\ConsoleApp1\obj\Debug\net9.0\ref\ConsoleApp1.dll
